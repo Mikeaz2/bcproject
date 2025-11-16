@@ -1,0 +1,10 @@
+date,amount,type,category
+2025-06-05,300,inflow,ecocash_gig
+2025-06-25,-200,outflow,wallet_spend
+2025-07-15,50,inflow,remittance_in
+2025-08-04,320,inflow,ecocash_gig
+2025-08-24,-210,outflow,wallet_spend
+2025-09-13,50,inflow,remittance_in
+2025-10-03,310,inflow,ecocash_gig
+2025-10-23,-190,outflow,wallet_spend
+2025-11-12,75,inflow,remittance_in

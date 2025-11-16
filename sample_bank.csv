@@ -1,0 +1,13 @@
+date,amount,type,category
+2025-06-01,900,inflow,salary
+2025-06-16,-450,outflow,rent
+2025-07-01,-120,outflow,groceries
+2025-07-16,-60,outflow,transport
+2025-07-31,900,inflow,salary
+2025-08-15,-470,outflow,rent
+2025-08-30,-140,outflow,groceries
+2025-09-14,-80,outflow,transport
+2025-09-29,900,inflow,salary
+2025-10-14,-430,outflow,rent
+2025-10-29,-150,outflow,groceries
+2025-11-13,-70,outflow,transport
